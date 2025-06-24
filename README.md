@@ -2,14 +2,14 @@
 <img src="https://github.com/grashik99/grashik99/blob/main/Golam%20Robbani%20-.png" alt="Banner" style="width:100%; height:auto;"/>
 
 <h1 align="center">Hi 👋, I'm Golam Robbani</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Front-end Web Developer</h3>
 
 ---
 
 ## 🧑‍💼 About Me
 
-Hi! I'm a passionate web developer from [Your Country].  
-I enjoy building full-stack web applications, solving problems, and exploring new technologies.
+Hi! I'm a passionate web developer from Bangladesh.  
+I enjoy building front-end & full-stack web applications, solving problems, and exploring new technologies.
 
 ---
 
@@ -35,7 +35,7 @@ I enjoy building full-stack web applications, solving problems, and exploring ne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png" alt="tailwind" width="40" height="40"/>
 </p>
 
 ---
