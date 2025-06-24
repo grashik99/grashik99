@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-url.com/banner.png" alt="Banner" style="width:100%; height:auto;"/>
+<img src="https://github.com/grashik99/grashik99/blob/main/Golam%20Robbani%20-.png" alt="Banner" style="width:100%; height:auto;"/>
 
 <h1 align="center">Hi 👋, I'm Golam Robbani</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
