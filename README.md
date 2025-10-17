@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://github.com/grashik99/grashik99/blob/main/Golam%20Robbani%20-.png" alt="Banner" style="width:100%; height:auto;"/>
+<img src="https://github.com/grashik99/grashik99/blob/main/golam_robbani_github.png" alt="Banner" style="width:100%; height:auto;"/>
 
 <h1 align="center">Hi 👋, I'm Golam Robbani</h1>
 <h3 align="center">Front-end Web Developer</h3>
